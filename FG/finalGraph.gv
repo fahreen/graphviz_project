@@ -1,0 +1,328 @@
+digraph g {
+  overlap = false;
+
+	size ="6,6";
+	node [style=filled, color=yellow, pin=true];
+	"15A"	[color=lightskyblue,
+		height=0.5,
+		pos="305.00,740.00!",
+		width=0.75];
+	51	[color=maroon,
+		height=0.5,
+		pos="215.45,637.37!",
+		width=0.75];
+	17	[color=indianred,
+		height=0.5,
+		pos="290.00,670.01!",
+		width=0.75];
+	"3B"	[color=lightcoral,
+		height=0.5,
+		pos="120.3,115.71!",
+		width=0.75];
+	"21B"	[color=lightcoral,
+		height=0.5,
+		pos="278.06,593.74!",
+		width=0.75];
+	"Fig. 6A"	[color=lightskyblue,
+		height=0.5,
+		pos="385.91,275.55!",
+		width=1.0652];
+	"6A"	[color=blue,
+		height=0.5,
+		pos="387.83,425.17!",
+		width=0.75];
+	"6B"	[color=dodgerblue,
+		height=0.5,
+		pos="420.31,370.73!",
+		width=0.75];
+	"3A"	[color=dodgerblue,
+		height=0.5,
+		pos="620.49,125.69!",
+		width=0.75];
+	29	[color=lightskyblue,
+		height=0.5,
+		pos="445.16,205.42!",
+		width=0.75];
+	28	[color=lightskyblue,
+		height=0.5,
+		pos="380.58,200.8!",
+		width=0.75];
+	27	[color=lightskyblue,
+		height=0.5,
+		pos="460.16,310.66!",
+		width=0.75];
+	56	[color=red,
+		height=0.5,
+		pos="510.53,160.27!",
+		width=0.75];
+	57	[color=lightcoral,
+		height=0.5,
+		pos="330.4,240.85!",
+		width=0.75];
+	"Fig. 2B"	[color=lightskyblue,
+		height=0.5,
+		pos="484.9,735.58!",
+		width=1.0471];
+	13	[color=lightskyblue,
+		height=0.5,
+		pos="770.9,730.58!",
+		width=0.75];
+	14	[color=lightskyblue,
+		height=0.5,
+		pos="720.16,705.88!",
+		width=0.75];
+	9	[color=lightskyblue,
+		height=0.5,
+		pos="400.84,700.58!",
+		width=0.75];
+	"10A"	[color=lightskyblue,
+		height=0.5,
+		pos="580.9,690.58!",
+		width=0.75];
+	"10B"	[color=lightskyblue,
+		height=0.5,
+		pos="564.65,505.79!",
+		width=0.75];
+	"15B"	[color=dodgerblue,
+		height=0.5,
+		pos="470.65,497.35!",
+		width=0.75];
+	"Fig. 2A"	[color=lightskyblue,
+		height=0.5,
+		pos="710.16,455.88!",
+		width=1.0652];
+	8	[color=lightskyblue,
+		height=0.5,
+		pos="500.36,460.75!",
+		width=0.75];
+	18	[color=lightskyblue,
+		height=0.5,
+		pos="294.28,505.68!",
+		width=0.75];
+	"Fig. 3"	[color=lightskyblue,
+		height=0.5,
+		pos="385.0,580.72!",
+		width=0.88464];
+	"1A,B"	[color=lightskyblue,
+		height=0.5,
+		pos="405.31,652.56!",
+		width=0.83048];
+	16	[color=lightskyblue,
+		height=0.5,
+		pos="330.66,620.71!",
+		width=0.75];
+	"Table 1"	[color=lightskyblue,
+		height=0.5,
+		pos="200.48,380.67!",
+		width=1.0471];
+	"4A,B"	[color=lightskyblue,
+		height=0.5,
+		pos="150.39,315.74!",
+		width=0.83048];
+	5	[color=lightskyblue,
+		height=0.5,
+		pos="120.67,355.29!",
+		width=0.75];
+	35	[color=lightskyblue,
+		height=0.5,
+		pos="160.5,440.72!",
+		width=0.75];
+	"36B"	[color=lightskyblue,
+		height=0.5,
+		pos="270.5,350.82!",
+		width=0.75];
+	37	[color=lightskyblue,
+		height=0.5,
+		pos="110,400.62!",
+		width=0.75];
+	40	[color=lightskyblue,
+		height=0.5,
+		pos="220.2,320.21!",
+		width=0.75];
+	"63A"	[color=indianred,
+		height=0.5,
+		pos="100.86,220.467!",
+		width=0.75];
+	"63B"	[color=lightcoral,
+		height=0.5,
+		pos="190.9,210.648!",
+		width=0.75];
+	64	[color=indianred,
+		height=0.5,
+		pos="240.44,280!",
+		width=0.75];
+	"67A"	[color=lightcoral,
+		height=0.5,
+		pos="145.67,270.077!",
+		width=0.75];
+	"11A"	[color=lightcoral,
+		height=0.5,
+		pos="650.9,690.58!",
+		width=0.75];
+	12	[color=lightcoral,
+		height=0.5,
+		pos="625.65,535.79!",
+		width=0.75];
+	"61B"	[color=lightcoral,
+		height=0.5,
+		pos="660.9,630.58!",
+		width=0.75];
+	62	[color=lightcoral,
+		height=0.5,
+		pos="680.9,575.58!",
+		width=0.75];
+	60	[color=lightcoral,
+		height=0.5,
+		pos="570.25,610.88!",
+		width=0.75];
+	47	[color=lightcoral,
+		height=0.5,
+		pos="511.64,555.19!",
+		width=0.75];
+	66	[color=lightcoral,
+		height=0.5,
+		pos="183.4,689.51!",
+		width=0.75];
+	52	[color=lightcoral,
+		height=0.5,
+		pos="140.29,645.37!",
+		width=0.75];
+	"Fig. 4"	[color=lightskyblue,
+		height=0.5,
+		pos="316.82,450.12!",
+		width=0.88464];
+	20	[color=lightskyblue,
+		height=0.5,
+		pos="356.64,494.14!",
+		width=0.75];
+	2	[color=lightskyblue,
+		height=0.5,
+		pos="230.45,450.54!",
+		width=0.75];
+	19	[color=lightskyblue,
+		height=0.5,
+		pos="229.34,513.64!",
+		width=0.75];
+	"21A"	[color=lightcoral,
+		height=0.5,
+		pos="159.79,569.87!",
+		width=0.75];
+	"Fig. 5A"	[color=lightskyblue,
+		height=0.5,
+		pos="640.44,390.61!",
+		width=1.0652];
+	23	[color=lightskyblue,
+		height=0.5,
+		pos="600.52,300.02!",
+		width=0.75];
+	"Fig. 6B"	[color=lightskyblue,
+		height=0.5,
+		pos="190.16,150.34!",
+		width=1.0471];
+	"30A"	[color=lightskyblue,
+		height=0.5,
+		pos="270.37,180.43!",
+		width=0.75];
+	"30B"	[color=lightcoral,
+		height=0.5,
+		pos="340.53,165.27!",
+		width=0.75];
+	31	[color=lightcoral,
+		height=0.5,
+		pos="420.53,160.27!",
+		width=0.75];
+	"Fig. 5B"	[color=lightskyblue,
+		height=0.5,
+		pos="550.44,350.61!",
+		width=1.0471];
+	"24A"	[color=lightskyblue,
+		height=0.5,
+		pos="520.54,290.46!",
+		width=0.75];
+	25	[color=lightcoral,
+		height=0.5,
+		pos="520.247,230.34!",
+		width=0.75];
+  "Table 1" -> "4A,B";
+  "Table 1" -> "5";
+  "5" -> "63A" -> "63B" -> "64";
+  "63A" -> "64";
+
+"Table 1" -> "6A";
+"Table 1" -> "35";
+"Table 1" -> "36B";
+"Table 1" -> "37";
+"Table 1" -> "40";
+
+"Fig. 2A" -> "8";
+"Fig. 2A" -> "10A" -> "11A" -> "61B" -> "62";
+"10A" -> "12";
+"11A" -> "11A";
+"Fig. 2A" -> "10B" -> "12";
+"10B" -> "60";
+"Fig. 2A" -> "14" ;
+"Fig. 2A" ->"13" ;
+"Fig. 2A" -> "15B" ;
+"Fig. 2A" ->"6B" ;
+"Fig. 2A" -> "6A" ;
+"Fig. 2A" -> "3A" ;
+
+"Fig. 2B" -> "9";
+"Fig. 2B" -> "10B";
+"Fig. 2B" -> "10A";
+"Fig. 2B" -> "14";
+"Fig. 2B" -> "13";
+"Fig. 2B" -> "6A";
+"Fig. 2B" -> "15B" -> "47";
+
+"Fig. 3" -> "1A,B";
+"Fig. 3" -> "16" -> "51" -> "66";
+"16" -> "17";
+"Fig. 3" -> "15B";
+"Fig. 3" -> "15A" -> "51" -> "52";
+"15A" -> "17"
+
+
+"Fig. 4" -> "20";
+"Fig. 4" -> "2";
+"Fig. 4" -> "6A";
+"Fig. 4" -> "18" -> "21B" -> "51";
+"18" -> "51"
+"Fig. 4" -> "19" -> "21A" -> "51";
+"19" -> "51";
+
+"Fig. 5A" -> "23";
+"Fig. 5A" -> "6B";
+"Fig. 5A" -> "6A";
+"Fig. 5A" -> "3A";
+
+"Fig. 6B" -> "3A";
+"Fig. 6B" -> "6A";
+"Fig. 6B" ->"6B";
+"Fig. 6B" -> "30A" -> "30B" -> "31" -> "56";
+
+"Fig. 6A" -> "29" -> "56";
+"Fig. 6A" -> "28" -> "56";
+"28" -> "57";
+"Fig. 6A" ->"27";
+"Fig. 6A" ->"6B";
+"Fig. 6A" -> "6A";
+"Fig. 6A" -> "3A" -> "3B" -> "63A" -> "67A";
+
+"Fig. 5B" -> "3A";
+"Fig. 5B" -> "6A";
+"Fig. 5B" -> "6B";
+"Fig. 5B" -> "24A" -> "25";
+
+"Table 1", "Fig. 2A", "Fig. 2B", "Fig. 3", "Fig. 4", "Fig. 5A", "Fig. 6B", "Fig. 6A", "Fig. 5B"[color=grey,shape = polygon,
+		sides = 4 ]
+ "8", "10A", "10B", "14", "13", "9", "1A,B", "16", "15A", "20", "2", "18", "19", "23", "24A", "27", "28", "29", "30A", "4A,B", "5", "35", "36B", "37", "40" [color=lightskyblue];
+"15B", "6B", "3A" [color=dodgerblue];
+"6A" [color=blue];
+
+"63B", "67A", "62", "11A", "61B", "12", "60", "3B", "47", "21B", "21A", "66", "52", "25", "57", "31", "30B" [color=lightcoral];
+"64", "63A", "17" [color=indianred];
+"56"[color=red];
+"51"[color=maroon];
+
+}
